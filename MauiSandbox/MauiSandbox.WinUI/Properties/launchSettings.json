@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MauiSandbox.WinUI": {
+      "commandName": "MsixPackage",
+      "nativeDebugging": false
+    }
+  }
+}
